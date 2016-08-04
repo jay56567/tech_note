@@ -1,0 +1,5 @@
+curl -u 'jay56567' https://api.github.com/user/repos -d {\"name\":\"tech_note\"} 
+
+- check to see if the repo is created on website
+git remote add [name] https://xxxxxxxxxxxxxxx.git
+git push -u [name] master
